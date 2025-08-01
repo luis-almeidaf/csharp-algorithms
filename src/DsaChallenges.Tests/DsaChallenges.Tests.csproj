@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DsaChallenges\DsaChallenges.csproj" />
+    <ProjectReference Include="..\DsaChallenges.Core\DsaChallenges.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
